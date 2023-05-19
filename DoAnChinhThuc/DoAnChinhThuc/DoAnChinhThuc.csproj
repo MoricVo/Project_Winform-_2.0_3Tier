@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C191C0CE-A2B5-412D-839B-BF1A3DDB6099}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DoAnChinhThuc</RootNamespace>
+    <AssemblyName>DoAnChinhThuc</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FormCapNhat\NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCapNhat\NhanVien.Designer.cs">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormChinh.Designer.cs">
+      <DependentUpon>FormChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCapNhat\BenhNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCapNhat\BenhNhan.Designer.cs">
+      <DependentUpon>BenhNhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCapNhat\PhanPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCapNhat\PhanPhong.Designer.cs">
+      <DependentUpon>PhanPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCapNhat\PhongKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCapNhat\PhongKhoa.Designer.cs">
+      <DependentUpon>PhongKhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCapNhat\QueQuan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCapNhat\QueQuan.Designer.cs">
+      <DependentUpon>QueQuan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDangNhap.Designer.cs">
+      <DependentUpon>FormDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDanhGia\DanhGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDanhGia\DanhGia.Designer.cs">
+      <DependentUpon>DanhGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDanhSach\InDanhSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDanhSach\InDanhSach.Designer.cs">
+      <DependentUpon>InDanhSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDanhSach\XemDanhSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDanhSach\XemDanhSach.Designer.cs">
+      <DependentUpon>XemDanhSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDanhSach\XemDanhSachTheoKhoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDanhSach\XemDanhSachTheoKhoa.Designer.cs">
+      <DependentUpon>XemDanhSachTheoKhoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDoiMatKhau.Designer.cs">
+      <DependentUpon>FormDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormFlash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormFlash.Designer.cs">
+      <DependentUpon>FormFlash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHoTro\GoiNhaPhatTrien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHoTro\GoiNhaPhatTrien.Designer.cs">
+      <DependentUpon>GoiNhaPhatTrien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHoTro\XemDocoment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHoTro\XemDocoment.Designer.cs">
+      <DependentUpon>XemDocoment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNhacNho\GhiChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhacNho\GhiChu.Designer.cs">
+      <DependentUpon>GhiChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNhacNho\NhacNho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhacNho\NhacNho.Designer.cs">
+      <DependentUpon>NhacNho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThongKe\BenhNhanTuVong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThongKe\BenhNhanTuVong.Designer.cs">
+      <DependentUpon>BenhNhanTuVong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThongKe\TongBenhNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThongKe\TongBenhNhan.Designer.cs">
+      <DependentUpon>TongBenhNhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTimKiem\MaBN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTimKiem\MaBN.Designer.cs">
+      <DependentUpon>MaBN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTimKiem\TenBN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTimKiem\TenBN.Designer.cs">
+      <DependentUpon>TenBN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTrangChu\TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTrangChu\TrangChu.Designer.cs">
+      <DependentUpon>TrangChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LopDuLieuDungChung.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="ThongSoKyThuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongSoKyThuat.Designer.cs">
+      <DependentUpon>ThongSoKyThuat.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FormCapNhat\NhanVien.resx">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormChinh.resx">
+      <DependentUpon>FormChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCapNhat\BenhNhan.resx">
+      <DependentUpon>BenhNhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCapNhat\PhanPhong.resx">
+      <DependentUpon>PhanPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCapNhat\PhongKhoa.resx">
+      <DependentUpon>PhongKhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCapNhat\QueQuan.resx">
+      <DependentUpon>QueQuan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDangNhap.resx">
+      <DependentUpon>FormDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDanhGia\DanhGia.resx">
+      <DependentUpon>DanhGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDanhSach\InDanhSach.resx">
+      <DependentUpon>InDanhSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDanhSach\Report1.rdlc" />
+    <EmbeddedResource Include="FormDanhSach\XemDanhSach.resx">
+      <DependentUpon>XemDanhSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDanhSach\XemDanhSachTheoKhoa.resx">
+      <DependentUpon>XemDanhSachTheoKhoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDoiMatKhau.resx">
+      <DependentUpon>FormDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormFlash.resx">
+      <DependentUpon>FormFlash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHoTro\GoiNhaPhatTrien.resx">
+      <DependentUpon>GoiNhaPhatTrien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHoTro\XemDocoment.resx">
+      <DependentUpon>XemDocoment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNhacNho\GhiChu.resx">
+      <DependentUpon>GhiChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNhacNho\NhacNho.resx">
+      <DependentUpon>NhacNho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThongKe\BenhNhanTuVong.resx">
+      <DependentUpon>BenhNhanTuVong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThongKe\TongBenhNhan.resx">
+      <DependentUpon>TongBenhNhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTimKiem\MaBN.resx">
+      <DependentUpon>MaBN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTimKiem\TenBN.resx">
+      <DependentUpon>TenBN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTrangChu\TrangChu.resx">
+      <DependentUpon>TrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ThongSoKyThuat.resx">
+      <DependentUpon>ThongSoKyThuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_home_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_update_file_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_bulleted_list_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_search_more_32px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_combo_chart_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_technical_support_wearing_glasses_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_heart_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_hospital_3_200px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_hospital_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_enter_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_bungalow_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_open_door_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_distressed_woman_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_corridor_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_view_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_send_to_printer_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_resume_website_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_resume_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_resume_32px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_headstone_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_developer_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_doc_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_hospital_3_200px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_hospital_96px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_update_file_32px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_resume_32px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_cancel_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_enter_32px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_hospital_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Write your topic or idea.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_bulleted_list_32px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_enter_32px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_login_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_cancel_32px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_eye_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_system_information_32px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NhaKhoa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nhakhoa3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PictureFlash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_nurse_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_clinic_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_clinic_96px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nha khoa4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_update_file_32px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_resume_32px3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_cancel_32px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_enter_32px3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_home_200px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_department_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_user_32px.png" />
+    <None Include="Resources\icons8_department_96px1.png" />
+    <None Include="Resources\icons8_administrator_male_32px.png" />
+    <None Include="Resources\icons8_administrator_male_32px1.png" />
+    <None Include="Resources\icons8_administrator_male_32px2.png" />
+    <None Include="Resources\icons8_heart_32px1.png" />
+    <None Include="Resources\ffd2e005d489b0dafb1a1bf91bfc5bea.jpg" />
+    <None Include="Resources\1cdbb7e2bbf8e5000c7c4c3efd432c69.jpg" />
+    <None Include="Resources\icons8_administrator_male_32px3.png" />
+    <None Include="Resources\icons8_eye_32px1.png" />
+    <None Include="Resources\icons8_enter_32px4.png" />
+    <None Include="Resources\icons8_cancel_32px3.png" />
+    <None Include="Resources\icons8_home_200px1.png" />
+    <None Include="Resources\icons8_room_96px.png" />
+    <None Include="Resources\icons8_room_64px.png" />
+    <None Include="Resources\icons8_user_100px.png" />
+    <None Include="Resources\icons8_add_list_48px.png" />
+    <None Include="Resources\icons8_search_property_48px.png" />
+    <None Include="Resources\icons8_in_app_messaging_48px.png" />
+    <None Include="Resources\icons8_in_app_messaging_48px1.png" />
+    <None Include="Resources\icons8_next_page_48px.png" />
+    <None Include="Resources\icons8_todo_list_48px.png" />
+    <None Include="Resources\icons8_forgot_password_48px.png" />
+    <None Include="Resources\icons8_ok_96px.png" />
+    <None Include="Resources\icons8_ok_48px.png" />
+    <None Include="Resources\icons8_v_live_48px.png" />
+    <None Include="Resources\icons8_note_48px.png" />
+    <None Include="Resources\icons8_notification_48px.png" />
+    <None Include="Resources\icons8_alarm_clock_48px.png" />
+    <None Include="Resources\icons8_tiles_48px.png" />
+    <None Include="Resources\icons8_ok_30px.png" />
+    <None Include="Resources\icons8_ok_40px.png" />
+    <None Include="Resources\icons8_add_user_group_woman_man_40px.png" />
+    <None Include="Resources\icons8_ok_40px1.png" />
+    <None Include="Resources\icons8_hand_with_pen_40px.png" />
+    <None Include="Resources\icons8_alarm_40px.png" />
+    <None Include="Resources\icons8_cancel_32px_1.png" />
+    <None Include="Resources\130689705_413842116642468_2801677285967193123_n.jpg" />
+    <None Include="Resources\icons8_search_more_32px_11.png" />
+    <None Include="Resources\icons8_view_32px_1.png" />
+    <None Include="Resources\icons8_search_more_32px_12.png" />
+    <None Include="Resources\icons8_search_more_32px_13.png" />
+    <None Include="Resources\icons8_search_more_32px_14.png" />
+    <None Include="Resources\icons8_search_more_32px_15.png" />
+    <None Include="Resources\icons8_view_32px1.png" />
+    <None Include="Resources\a1b721c6055dbecb50ee8c7e98e57771.jpg" />
+    <None Include="Resources\bca8d43b2eb07beaeb3541f76b7e420e.jpg" />
+    <None Include="Resources\bca8d43b2eb07beaeb3541f76b7e420e1.jpg" />
+    <None Include="Resources\bca8d43b2eb07beaeb3541f76b7e420e2.jpg" />
+    <None Include="Resources\icons8_dental_braces_100px.png" />
+    <None Include="Resources\icons8_checked_identification_documents_64px.png" />
+    <None Include="Resources\icons8_cat_48px.png" />
+    <None Include="Resources\icons8_cat_40px_1.png" />
+    <None Include="Resources\icons8_add_text_32px.png" />
+    <None Include="Resources\icons8_save_as_32px.png" />
+    <None Include="Resources\icons8_stanley_knife_32px.png" />
+    <None Include="Resources\icons8_delete_message_32px.png" />
+    <None Include="Resources\icons8_refresh_32px.png" />
+    <None Include="Resources\icons8_add_text_32px1.png" />
+    <None Include="Resources\icons8_save_as_32px1.png" />
+    <None Include="Resources\icons8_delete_message_32px1.png" />
+    <None Include="Resources\icons8_stanley_knife_32px1.png" />
+    <None Include="Resources\icons8_refresh_32px1.png" />
+    <None Include="Resources\icons8_add_text_32px2.png" />
+    <None Include="Resources\icons8_save_as_32px2.png" />
+    <None Include="Resources\icons8_stanley_knife_32px2.png" />
+    <None Include="Resources\icons8_delete_message_32px2.png" />
+    <None Include="Resources\icons8_refresh_32px2.png" />
+    <None Include="Resources\icons8_add_text_32px3.png" />
+    <None Include="Resources\icons8_save_as_32px3.png" />
+    <None Include="Resources\icons8_stanley_knife_32px3.png" />
+    <None Include="Resources\icons8_delete_message_32px3.png" />
+    <None Include="Resources\icons8_refresh_32px3.png" />
+    <None Include="Resources\icons8_add_text_32px4.png" />
+    <None Include="Resources\icons8_save_as_32px4.png" />
+    <None Include="Resources\icons8_stanley_knife_32px4.png" />
+    <None Include="Resources\icons8_delete_message_32px4.png" />
+    <None Include="Resources\icons8_refresh_32px4.png" />
+    <None Include="Resources\4403ddaace58925b3b1d167050b930bd.jpg" />
+    <None Include="Resources\icons8_hospital_110px.png" />
+    <None Include="Resources\icons8_medical_doctor_64px.png" />
+    <None Include="Resources\hospital.gif" />
+    <None Include="Resources\untitled-1 %281%29.gif" />
+    <None Include="Resources\84952b158b902a93af59bda8517877d4.gif" />
+    <None Include="Resources\giphy.gif" />
+    <None Include="Resources\4403ddaace58925b3b1d167050b930bd1.jpg" />
+    <None Include="Resources\9dd54cab3b383726be62b529406f8328.gif" />
+    <None Include="Resources\doctor-flat-icon-gif-stock-gif-3519-640x360.gif" />
+    <None Include="Resources\gws-18.gif" />
+    <None Include="Resources\gws-181.gif" />
+    <None Include="Resources\icons8_search_more_32px_16.png" />
+    <None Include="Resources\icons8_cancel_32px_11.png" />
+    <None Include="Resources\icons8_open_door_32px1.png" />
+    <None Include="Resources\icons8_search_more_32px_17.png" />
+    <None Include="Resources\icons8_cancel_32px_12.png" />
+    <None Include="Resources\icons8_open_door_32px2.png" />
+    <None Include="Resources\4403ddaace58925b3b1d167050b930bd2.jpg" />
+    <None Include="Resources\icons8_medical_doctor_64px1.png" />
+    <None Include="Resources\4a99711e23d7e989b0c6.jpg" />
+    <None Include="Resources\4a99711e23d7e989b0c61.jpg" />
+    <None Include="Resources\icons8_eye_40px.png" />
+    <None Include="Resources\icons8_hide_40px.png" />
+    <None Include="Resources\icons8_eye_40px1.png" />
+    <None Include="Resources\icons8_hide_40px1.png" />
+    <None Include="Resources\icons8_closed_eye_30px.png" />
+    <None Include="Resources\icons8_eye_30px.png" />
+    <None Include="Resources\icons8_hide_30px.png" />
+    <None Include="Resources\icons8_eye_30px1.png" />
+    <None Include="Resources\NhaKhoa6.jpg" />
+    <None Include="Resources\2e12a4023f10391c2ee06f9d38ea9a30.jpg" />
+    <None Include="Resources\icons8_password_32px.png" />
+    <None Include="Resources\icons8_password_32px1.png" />
+    <None Include="Resources\53a5cdd2aad48e43bb2a56018e7b30de.jpg" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,209 @@
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\DoAnChinhThuc.exe.config
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\DoAnChinhThuc.exe
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\DoAnChinhThuc.pdb
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.csproj.AssemblyReference.cache
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.Form1.resources
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.Properties.Resources.resources
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.csproj.GenerateResource.cache
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.csproj.CoreCompileInputs.cache
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.exe
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.pdb
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormCapNhat.BenhNhan.resources
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormCapNhat.PhanPhong.resources
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormCapNhat.PhongKhoa.resources
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormCapNhat.QueQuan.resources
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormDanhSach.InDanhSach.resources
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormDanhSach.XemDanhSach.resources
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormTrangChu.TrangChu.resources
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormHoTro.GoiNhaPhatTrien.resources
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormHoTro.XemDocoment.resources
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormThongKe.BenhNhanTuVong.resources
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormThongKe.TongBenhNhan.resources
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormTimKiem.MaBN.resources
+E:\TAILIEUHOCTAP\Lập Trình DotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormTimKiem.TenBN.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\DoAnChinhThuc.exe.config
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\DoAnChinhThuc.exe
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\DoAnChinhThuc.pdb
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.csproj.AssemblyReference.cache
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormCapNhat.BenhNhan.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormCapNhat.PhanPhong.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormCapNhat.PhongKhoa.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormCapNhat.QueQuan.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormDanhSach.InDanhSach.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormDanhSach.XemDanhSach.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormHoTro.GoiNhaPhatTrien.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormHoTro.XemDocoment.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormThongKe.BenhNhanTuVong.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormThongKe.TongBenhNhan.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormTimKiem.MaBN.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormTimKiem.TenBN.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormTrangChu.TrangChu.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.Properties.Resources.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.csproj.GenerateResource.cache
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.csproj.CoreCompileInputs.cache
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.exe
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.pdb
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.ThongSoKyThuat.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormFlash.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormChinh.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormDangNhap.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.csproj.CopyComplete
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\RdlCompile.cache
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\RdlCompile.compiled
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\EnvDTE.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\stdole.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.MSXML.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormDanhGia.DanhGia.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormCapNhat.NhanVien.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormNhacNho.NhacNho.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormDanhSach.XemDanhSachTheoKhoa.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormNhacNho.GhiChu.resources
+E:\TAILIEUHOCTAP\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormDoiMatKhau.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\DoAnChinhThuc.exe.config
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\DoAnChinhThuc.exe
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\DoAnChinhThuc.pdb
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\EnvDTE.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\stdole.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\Microsoft.MSXML.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.csproj.AssemblyReference.cache
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormCapNhat.NhanVien.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormChinh.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormCapNhat.BenhNhan.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormCapNhat.PhanPhong.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormCapNhat.PhongKhoa.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormCapNhat.QueQuan.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormDangNhap.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormDanhGia.DanhGia.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormDanhSach.InDanhSach.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormDanhSach.XemDanhSach.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormDanhSach.XemDanhSachTheoKhoa.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormDoiMatKhau.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormFlash.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormHoTro.GoiNhaPhatTrien.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormHoTro.XemDocoment.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormNhacNho.GhiChu.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormNhacNho.NhacNho.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormThongKe.BenhNhanTuVong.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormThongKe.TongBenhNhan.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormTimKiem.MaBN.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormTimKiem.TenBN.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.FormTrangChu.TrangChu.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.Properties.Resources.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.ThongSoKyThuat.resources
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.csproj.GenerateResource.cache
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\RdlCompile.cache
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\RdlCompile.compiled
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.csproj.CoreCompileInputs.cache
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.csproj.CopyComplete
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.exe
+E:\TAILIEUHOCTAP\HK1_Nam3\LTDotNet\DoAn\Project_Chinhthuc\DoAnChinhThuc\DoAnChinhThuc\obj\Debug\DoAnChinhThuc.pdb
